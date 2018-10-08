@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "168621179490",
+    "firebase_url": "https://chatapp-76a17.firebaseio.com",
+    "project_id": "chatapp-76a17",
+    "storage_bucket": "chatapp-76a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168621179490:android:0021a14558a16f63",
+        "android_client_info": {
+          "package_name": "com.example.mahdi.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168621179490-pmbpqmj8g94vu23hg4v575b8lb6t8sv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahdi.chatapp",
+            "certificate_hash": "fa9c1ecd8a06e5c7600d50d93845e747c60e4bd7"
+          }
+        },
+        {
+          "client_id": "168621179490-6hrlg02fqiehkmr3t0e39lle8q7khdkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFOOn29MpeAxHyxb8mVjtbsYWRtjIF5w"
+        },
+        {
+          "current_key": "AIzaSyCvFOOn29MpeAxHyxb8mVjtbsYWRtjIF5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168621179490-6hrlg02fqiehkmr3t0e39lle8q7khdkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
